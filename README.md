@@ -1,4 +1,4 @@
-# Global Health Impact (GHI) Project — HIV 2015 Impact Score
+# Global Health Impact (GHI) Project - HIV 2015 Impact Score
 
 # 📌 Overview
 
